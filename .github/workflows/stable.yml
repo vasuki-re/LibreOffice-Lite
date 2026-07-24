@@ -69,7 +69,6 @@ jobs:
           --disable-postgresql-sdbc
           --disable-firebird-sdbc
           --disable-report-builder
-          --disable-scripting
           --disable-scripting-beanshell
           --disable-scripting-javascript
           --disable-librelogo
